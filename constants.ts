@@ -46,7 +46,7 @@ export const artists: Artist[] = [
 ];
 
 export const contactLinks = [
-    { name: 'Instagram', url: '#', handle: '@wrlds.online' },
+    { name: 'Instagram', url: 'https://instagram.com/wrldsonline', handle: '@wrldsonline ' },
     { name: 'Email', url: 'mailto:contact@wrlds.online', handle: 'contact@wrlds.online' },
     { name: 'Website', url: '#', handle: 'wrlds.online' },
     { name: 'Bandcamp', url: '#', handle: 'wrldsonline.bandcamp.com' },
