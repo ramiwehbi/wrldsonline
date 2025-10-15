@@ -49,5 +49,5 @@ export const contactLinks = [
     { name: 'Instagram', url: 'https://instagram.com/wrldsonline', handle: '@wrldsonline ' },
     { name: 'Email', url: 'mailto:contact@wrlds.online', handle: 'contact@wrlds.online' },
     { name: 'Website', url: '#', handle: 'wrlds.online' },
-    { name: 'Bandcamp', url: '#', handle: 'wrldsonline.bandcamp.com' },
+    { name: 'Spotify', url: '#', handle: 'COMING SOON' },
 ];
