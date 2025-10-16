@@ -34,13 +34,13 @@ export const artists: Artist[] = [
   {
     id: 5,
     name: 'im secretly a ghost',
-    genre: 'Sleep Phonk',
+    genre: 'Indie Rock',
     imageUrl: 'https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/85/6e/c7856eba-d127-fca8-2015-6fb0b2ca8111/057829619838.png/486x486bb.png',
   },
   {
     id: 6,
     name: 'baine!',
-    genre: 'Hexxkore',
+    genre: 'Sigilkore',
     imageUrl: 'https://i.scdn.co/image/ab6761610000e5eb695ad5513b06a7fe66b5c67d',
   },
 ];
