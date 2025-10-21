@@ -39,7 +39,7 @@ export const artists: Artist[] = [
   },
   {
     id: 6,
-    name: 'cholorofilm!',
+    name: 'cholorofilm',
     genre: 'Scenecore',
     imageUrl: 'https://i.scdn.co/image/ab67616d0000b273b51e3adbd7240332d5904b5b',
   },
