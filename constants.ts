@@ -9,39 +9,39 @@ export interface Artist {
 export const artists: Artist[] = [
   {
     id: 1,
-    name: 'imar',
-    genre: 'Alternative Rock',
-    imageUrl: 'https://i1.sndcdn.com/avatars-GvKkL3XmHMzoutiK-8xrFXA-t500x500.jpg',
-  },
-  {
-    id: 2,
-    name: 'GOONWORTHY',
-    genre: 'Various Genres',
-    imageUrl: 'https://s.mxmcdn.net/images-storage/albums2/0/1/9/1/0/0/91001910_500_500.jpg',
-  },
-  {
-    id: 3,
-    name: 'vampyr',
-    genre: 'Alternative Rock',
-    imageUrl: 'https://i.scdn.co/image/ab6761610000e5ebfd138830485203fe2cd59cb6',
-  },
-  {
-    id: 4,
-    name: 'bludwalk',
-    genre: 'Hyperpop',
-    imageUrl: 'https://images.genius.com/eed6913be9a6b92dcde0ffd448ac7dd1.750x750x1.png',
-  },
-  {
-    id: 5,
     name: 'snor',
     genre: 'Cloud Rap',
     imageUrl: 'https://lastfm.freetls.fastly.net/i/u/ar0/76cf391122b83b6314e8562738ba19ed.jpg',
   },
   {
-    id: 6,
+    id: 2,
     name: 'cholorofilm',
     genre: 'Scenecore',
     imageUrl: 'https://i.scdn.co/image/ab67616d0000b273b51e3adbd7240332d5904b5b',
+  },
+  {
+    id: 3,
+    name: 'Tommy Ragen',
+    genre: 'Indie Folk',
+    imageUrl: 'https://i.scdn.co/image/ab67616100005174be4c2ea665d4243fd2f1435c',
+  },
+  {
+    id: 4,
+    name: 'Zape$',
+    genre: 'Alternative Rock',
+    imageUrl: 'https://i.scdn.co/image/ab67616100005174e2a312c1c08a3cd126b862cd',
+  },
+  {
+    id: 5,
+    name: 'awake after dark',
+    genre: 'Indie Rock',
+    imageUrl: 'https://i.scdn.co/image/ab67616100005174b69490effe1495e8a64c4ce6',
+  },
+  {
+    id: 6,
+    name: 'coldwntr',
+    genre: 'Grunge',
+    imageUrl: 'https://i1.sndcdn.com/avatars-p5ETAIGVh6kNFw8X-pYiCCw-t240x240.jpg',
   },
 ];
 
